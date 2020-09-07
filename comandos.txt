@@ -20,6 +20,11 @@ Diff
 	Diferença no diretório
 		git diff HEAD~1
 	Mostra o que foi alterado no último commit
-	Ver diff no Github	
+	Ver diff no Github
 
-*Esta linha está adicionada para exercício.
+	git clone <URL> - baixa o repositório remoto
+	git pull - 	baixa as alterações do repositório remoto
+				mantém o repositório sincronizado com os últimos
+				commits de uma branch.
+	git checkout <commit> <file> - permite ver como um arquivo ou todo o repositório
+				estava em um determinado commit.
