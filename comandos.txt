@@ -1,2 +1,11 @@
-git init - inicia um repositório no diretório em que se está
+Git Workflow (os mais usados):
+	git init - inicia um repositório no diretório em que se está
+	git add - adiciona os arquivos novos e modificados para o próximo commit
+	git add . - atalho para adicionar todos
+	git commit [-m "Mensagem"] - registra o commit com todos os arquivos que usou "git add"
+	git config --global core.editor <editor> - troca o editor de texto
+	git status - status do repositório
+	git log - histórico dos últimos commits feitos
+
+Status dos arquivos
 
