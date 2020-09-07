@@ -21,4 +21,5 @@ Diff
 		git diff HEAD~1
 	Mostra o que foi alterado no último commit
 	Ver diff no Github	
-*Essa linha será removida como exercício.
+
+*Esta linha está adicionada para exercício.
