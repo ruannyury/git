@@ -8,4 +8,16 @@ Git Workflow (os mais usados):
 	git log - histórico dos últimos commits feitos
 
 Status dos arquivos
+	Não modificado (untracked) - criou o arquivo
+	Modificado (modified) - modificou o arquivo
+	Preparado add (staged) - adicionou o arquivo num estágio de espera pelo commit
+	Consolidado commit (commited) - registra a alteração no git e espera pelo push
 
+Diff
+		git diff
+	Exibir diferenças entre commits e branchs
+		git diff [path]
+	Diferença no diretório
+		git diff HEAD~1
+	Mostra o que foi alterado no último commit
+	Ver diff no Github	
